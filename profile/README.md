@@ -2,4 +2,4 @@
 
 Repositories hosted under this organization operate under various open source licences.
 
-Follow the [Signup](https://www.github.com/EpicGames/SignUp) steps to access to [EpicGames'](https://www.github.com/EpicGames/) `Unreal Engine` GitHub Repository.
+Follow the [Sign-up](https://www.github.com/EpicGames/SignUp) steps to access to [EpicGames'](https://www.github.com/EpicGames/) `Unreal Engine` GitHub Repository.
