@@ -1,5 +1,7 @@
-![UnrealEngine](https://avatars.githubusercontent.com/u/161372141?s=400&u=7ec68094c5020c7d758bc9d9ce023cb86c21fb80&v=4)
+![Epic Games](https://avatars.githubusercontent.com/u/161372141?s=400&u=7ec68094c5020c7d758bc9d9ce023cb86c21fb80&v=4)
 
-Repositories hosted under this organization operate under various open source licences.
+### Read more about this organization [here](https://forums.unrealengine.com/t/1718666).
 
-Follow the [Sign-up](https://www.github.com/EpicGames/SignUp) steps to access to [EpicGames'](https://www.github.com/EpicGames/) `Unreal Engine` GitHub Repository.
+Repositories hosted under this organization operate under various open source licenses.
+
+See the [Sign-up README](https://www.github.com/EpicGames/SignUp) for information on steps to access to [Epic Games'](https://www.github.com/EpicGames/) `Unreal Engine` GitHub Repository.
